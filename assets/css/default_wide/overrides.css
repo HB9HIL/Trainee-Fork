@@ -1,0 +1,55 @@
+thead>tr>td {
+    background-color: aliceblue !important;
+}
+
+.selectize-input {
+    border: 1px solid #ced4da;
+}
+
+@media (min-width: 1500px) {
+	.container, .container-lg, .container-md, .container-sm, .container-xl {
+		max-width: 1400px
+	}
+}
+
+@media (min-width: 1920px) {
+	.container, .container-lg, .container-md, .container-sm, .container-xl {
+		max-width: 1800px
+	}
+}
+
+.dxccBgDanger {
+	background-color: #f8d7db !important;
+}
+
+.dxccBgSuccess {
+	background-color: #d4edda !important;
+}
+
+#map {
+	height: 500px !important;
+}
+
+#gridsquare_map {
+	height: calc(100vh - 380px) !important;
+	max-height: 900px !important;
+}
+
+@media (min-width: 992px) {
+	.modal-lg, .modal-xl {
+		max-width: 1300px;
+	}
+}
+
+.modal-body {
+	max-height: calc(100vh - 200px);
+	overflow-y: auto;
+}
+
+#mapqso {
+	height: 400px !important;
+}
+
+#qsomap {
+	height: 400px !important;
+}
