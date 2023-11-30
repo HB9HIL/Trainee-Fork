@@ -5,7 +5,7 @@
 
 	These are taken from comments fields or ADIF fields
 */
-
+// add comment in awards files //
 class Awards extends CI_Controller {
 
 	function __construct()
