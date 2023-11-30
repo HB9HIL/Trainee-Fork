@@ -3,6 +3,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Accumulated extends CI_Controller {
 
+    // abarrau comment on Accumulated // 
     function __construct()
     {
         parent::__construct();
