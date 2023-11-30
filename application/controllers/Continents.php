@@ -2,6 +2,7 @@
 
 class Continents extends CI_Controller {
 
+	// add comment in continents files //
 	public function index()
 	{
         $this->load->model('user_model');
