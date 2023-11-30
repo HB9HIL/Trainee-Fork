@@ -46,7 +46,7 @@ function echoQrbCalcLink($mygrid, $grid, $vucc) {
 	}
 }
 ?>
-<div class="container dashboard">
+<div class="container dashboard"> <!-- add comment by abarrau -->
 <?php if(($this->config->item('use_auth') && ($this->session->userdata('user_type') >= 2)) || $this->config->item('use_auth') === FALSE) { ?>
 
 	<?php if (version_compare(PHP_VERSION, '7.4.0') <= 0) { ?>
