@@ -6,6 +6,7 @@ class adif extends CI_Controller {
 
 	/* Controls ADIF Import/Export Functions */
 
+	// add comment in adif files (level 2) //
 	function __construct()
 	{
 		parent::__construct();

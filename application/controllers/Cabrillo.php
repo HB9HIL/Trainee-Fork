@@ -6,7 +6,7 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 /*
 	This controller contains features for Cabrillo
 */
-
+// add comment in Cabillo files //
 class Cabrillo extends CI_Controller {
 
 	function __construct() {

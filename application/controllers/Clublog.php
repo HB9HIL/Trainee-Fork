@@ -4,6 +4,7 @@
 	Controller to interact with the Clublog API
 */
 
+// add comment in Clublog files //
 class Clublog extends CI_Controller {
 
 	// Show frontend if there is one
